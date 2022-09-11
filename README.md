@@ -19,3 +19,11 @@ https://www.udemy.com/course/python-rest-apis-with-flask-docker-mongodb-and-aws-
 https://www.udemy.com/course/desktop-gui-python-tkinter/ <br>
 https://www.udemy.com/course/automated-software-testing-with-python/ <br>
 </p>
+
+<h2>Varios</h2>
+<p>
+How To Design Large Software Systems <br>
+https://www.youtube.com/watch?v=u3YoNpSnmis <br>
+Data Collection Project Ideas & Demos <br>
+https://www.youtube.com/watch?v=Wx-gL-Dt5rI <br>
+</p>

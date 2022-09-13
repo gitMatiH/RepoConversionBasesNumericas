@@ -43,7 +43,7 @@ Convert a string of binary, octal, and hexadecimal notation to int <br>
 https://note.nkmk.me/en/python-str-num-conversion/ <br>
 </p>
 
-'''
+<p>
 Python 3.8.10 (default, Jun 22 2022, 20:18:18) <br>
 [GCC 9.4.0] on linux <br>
 Type "help", "copyright", "credits" or "license()" for more information.<br>
@@ -67,4 +67,4 @@ Type "help", "copyright", "credits" or "license()" for more information.<br>
 '16'<br>
 >>> int(format(i, 'd'))<br>
 16<br>
-'''
+</p>

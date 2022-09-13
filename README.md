@@ -33,7 +33,7 @@ https://www.youtube.com/watch?v=CvcSpNm7PzU <br>
 Convert Python To Exe Files <br>
 https://www.youtube.com/watch?v=bYLU02QhlUM <br>
 </p>
-<h2>Varios</h2>
+<h2>Artículos</h2>
 <p>
 Convert binary, octal, decimal, and hexadecimal in Python <br>
 https://note.nkmk.me/en/python-bin-oct-hex-int-format/ <br>

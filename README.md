@@ -34,4 +34,6 @@ Convert Python To Exe Files <br>
 https://www.youtube.com/watch?v=bYLU02QhlUM <br>
 Convert binary, octal, decimal, and hexadecimal in Python <br>
 https://note.nkmk.me/en/python-bin-oct-hex-int-format/ <br>
+Python Program to Convert Decimal to Binary, Octal and Hexadecimal <br>
+https://www.datacamp.com/tutorial/python-data-type-conversion <br>
 </p>

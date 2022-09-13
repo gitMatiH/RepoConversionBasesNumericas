@@ -43,28 +43,28 @@ Convert a string of binary, octal, and hexadecimal notation to int <br>
 https://note.nkmk.me/en/python-str-num-conversion/ <br>
 </p>
 
-'''python
-Python 3.8.10 (default, Jun 22 2022, 20:18:18) 
-[GCC 9.4.0] on linux
-Type "help", "copyright", "credits" or "license()" for more information.
->>> i = 255
->>> print(bin(i))
-0b11111111
->>> print(oct(i))
-0o377
->>> print(hex(i))
-0xff
->>> i=16
->>> print(hex(i))
-0x10
->>> print(bin(i)[2:])
-10000
->>> format(i, 'b')
-'10000'
->>> i
-16
->>> format(i, 'd')
-'16'
->>> int(format(i, 'd'))
-16
+'''
+Python 3.8.10 (default, Jun 22 2022, 20:18:18) <br>
+[GCC 9.4.0] on linux <br>
+Type "help", "copyright", "credits" or "license()" for more information.<br>
+>>> i = 255<br>
+>>> print(bin(i))<br>
+0b11111111<br>
+>>> print(oct(i))<br>
+0o377<br>
+>>> print(hex(i))<br>
+0xff<br>
+>>> i=16<br>
+>>> print(hex(i))<br>
+0x10<br>
+>>> print(bin(i)[2:])<br>
+10000<br>
+>>> format(i, 'b')<br>
+'10000'<br>
+>>> i<br>
+16<br>
+>>> format(i, 'd')<br>
+'16'<br>
+>>> int(format(i, 'd'))<br>
+16<br>
 '''

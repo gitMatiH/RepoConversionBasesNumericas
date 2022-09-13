@@ -36,4 +36,6 @@ Convert binary, octal, decimal, and hexadecimal in Python <br>
 https://note.nkmk.me/en/python-bin-oct-hex-int-format/ <br>
 Python Program to Convert Decimal to Binary, Octal and Hexadecimal <br>
 https://www.datacamp.com/tutorial/python-data-type-conversion <br>
+Convert a string of binary, octal, and hexadecimal notation to int <br>
+https://note.nkmk.me/en/python-str-num-conversion/ <br>
 </p>

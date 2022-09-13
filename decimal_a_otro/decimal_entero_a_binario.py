@@ -12,8 +12,8 @@ def decimal_entero_a_binario(num=None):
         resultado = str(resto) + resultado
         dividendo = dividendo // 2
 
-    resto = dividendo % 2
-    resultado = str(resto) + resultado
+    resto = dividendo % 2               ## a este paso adicional ya le había sacado la vuelta
+    resultado = str(resto) + resultado  ## ver en ejercicios IntroProg
     return (num, resultado)
 
 if __name__ == "__main__":

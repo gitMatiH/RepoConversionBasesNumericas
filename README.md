@@ -22,6 +22,8 @@ https://www.udemy.com/course/automated-software-testing-with-python/ <br>
 
 <h2>Varios</h2>
 <p>
+5 Tips To Organize Python Code <br>
+https://www.youtube.com/watch?v=e9yMYdnSlUA <br>
 How To Design Large Software Systems <br>
 https://www.youtube.com/watch?v=u3YoNpSnmis <br>
 Data Collection Project Ideas & Demos <br>
